@@ -1,6 +1,6 @@
 # ①課題番号-プロダクト名
 
-Job Informationサイト
+ジョブマッチングサイト - Job Information -
 
 ## ②課題内容（どんな作品か）
 
